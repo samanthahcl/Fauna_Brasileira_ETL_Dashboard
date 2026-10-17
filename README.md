@@ -171,8 +171,8 @@ O dashboard no Power BI foi projetado com uma paleta de cores temática (Verde S
 
 1. **Clonar o Repositório:**
    ```bash
-   git clone https://github.com/usuario/bi-fauna-brasileira.git
-   cd bi-fauna-brasileira
+   git clone https://github.com/samanthahcl/Fauna_Brasileira_ETL_Dashboard.git
+   cd BI_Fauna_Brasileira
    ```
 
 2. **Executar a Análise em Python:**
