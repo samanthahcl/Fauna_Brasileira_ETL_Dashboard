@@ -152,12 +152,12 @@ O dashboard no Power BI foi projetado com uma paleta de cores temática (Verde S
    * Filtro por *Rank Taxonômico* (Infraspecies, Species).
    * Filtro por *Filo* / *Classe*.
 2. **Cartões de KPIs (Indicadores Principais):**
-   * **Total de Espécies:** 1.430 (ou ~1 Mil).
+   * **Total de Espécies:** 1.278 (ou ~1 Mil).
    * **Espécies Em Perigo (EN):** 461.
    * **Espécies Críticas (CR):** 322.
    * **Espécies Vulneráveis (VU):** 495.
 3. **Gráfico de Donut (Rosca):**
-   * Proporção percentual de espécies por Status de Ameaça (38,73% VU, 36,07% EN, 25,21% CR).
+   * Proporção percentual de espécies por Status de Ameaça (38,73% VU, 36,07% EN, 25,2% CR).
 4. **Gráfico de Barras Horizontais:**
    * Distribuição de espécies por Filo Taxonômico (destaque para o filo *Chordata*).
 5. **Gráfico de Barras Empilhadas (100%):**
